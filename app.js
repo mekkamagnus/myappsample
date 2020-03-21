@@ -9,3 +9,4 @@ function runIt(e) {
 	display.innerHTML += textBox.value + "<br>";
 }
 console.log(textBox.value);
+console.log('Hello');
